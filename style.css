@@ -1,0 +1,54 @@
+body {
+  background-color: #4cc6f4;
+}
+
+header {
+  border: 1px solid white;
+}
+
+header h1 {
+  padding-top: 40px;
+  font-size: 4vw;
+  letter-spacing: 25px;
+  text-shadow: 5px 0 5px #000;
+  -moz-text-shadow: 5px 0 5px #000;
+  -webkit-text-shadow: 5px 0 5px #000;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.nav-link:hover {
+  color: red !important;
+}
+
+p {
+  text-align: justify;
+}
+.orszag {
+  background-color: #1e90ff;
+  color: white;
+}
+
+.cikkep {
+  float: left;
+  width: 55%;
+  margin: 20px;
+  border: 2px solid white;
+}
+
+footer {
+  height: 50px;
+}
+
+footer p {
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+#eredmeny {
+  background-color: rgb(200, 200, 200);
+  font-weight: bold;
+}

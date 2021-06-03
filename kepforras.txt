@@ -1,0 +1,4 @@
+Bulgária: bulgaria.jpg --> Bulgária
+Görögország: gorogorszag.jpg --> Görögország
+Horvátország: horvatorszag.jpg --> Horvátország
+Törökország: torokorszag.jpg --> Törökország
